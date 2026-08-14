@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-jcsg26.yoursingles.online/sitemap.xml
